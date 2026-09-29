@@ -1,0 +1,26 @@
+{
+  "total_inventory_items": 30000,
+  "actionable_candidates_count": 10638,
+  "actionable_candidate_pct": 35.46,
+  "archetype_breakdown": {
+    "Stable Performer": 19362,
+    "Thin / Zombie Content": 4743,
+    "Decaying High-Demand Core": 2950,
+    "Striking-Distance Opportunity": 2744,
+    "High Visibility CTR Deficit": 201
+  },
+  "action_label_breakdown": {
+    "monitor_only": 19362,
+    "evaluate_consolidation_or_pruning": 4743,
+    "comprehensive_content_refresh": 2950,
+    "review_title_meta_and_intent": 2744,
+    "serp_snippet_optimization": 201
+  },
+  "safety_guards": {
+    "prune_safety_guard_count": 4743,
+    "senior_signoff_required_count": 2252,
+    "recent_update_cooldown_count": 7375
+  },
+  "model_held_out_precision_at_20": 0.6,
+  "baseline_held_out_precision_at_20": 0.4
+}
